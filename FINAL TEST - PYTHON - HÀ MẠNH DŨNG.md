@@ -1,4 +1,4 @@
-#                          FINAL TEST - PYTHON - HÀ MẠNH DŨNG
+#                          Python syntax, python pandas
 
 # Python syntax
 
